@@ -53,6 +53,9 @@ func _physics_process(delta: float) -> void:
 	if is_on_floor():
 		counter += delta
 	
+func bounce():
+	return
+
 func _on_mouse_entered() -> void:
 	self.scale += Vector2(1,1)
 
