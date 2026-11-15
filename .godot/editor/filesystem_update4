@@ -1,3 +1,6 @@
 res://node_2d.tscn
 res://treasure_1.gd
 res://player.gd
+res://label.gd
+res://treasure_2.gd
+res://treasure_3.gd
